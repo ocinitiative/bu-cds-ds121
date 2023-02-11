@@ -4,17 +4,19 @@
 
 - Professor: Allison McDonald (amcdon@bu.edu)
 - TA: Abhishek Tiwari (abhi6689@bu.edu)
-- Meetings
 
 
-## Lecture:
-- Monday, Wednesday, Friday at 11:15am (PHO 211)
+## Meetings
 
 
-## Recitation:
-- Monday at 1:25-2:15pm (KCB 103)
-- Monday at 2:30-3:20pm (FLR 121)
-- Monday at 3:35-4:25pm (FLR 121)
+- Lecture:
+  - Monday, Wednesday, Friday at 11:15am (PHO 211)
+
+
+- Recitation:
+  - Monday at 1:25-2:15pm (KCB 103)
+  - Monday at 2:30-3:20pm (FLR 121)
+  - Monday at 3:35-4:25pm (FLR 121)
 
 
 ## Assignments & Test dates:
