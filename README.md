@@ -1,5 +1,32 @@
 # CDS DS 121 - Foundations of Data Science II
 
+## Lecture Catalog
+
+- Lecture 0: Course Overview
+- Lecture 1: The Power of Linearity
+- Lecture 2: Vectors and Vector Spaces
+- Lecture 3: Linear (In)dependence
+- Lecture 4: Solving Linear Equations with Gaussian Elimination
+- Lecture 5: Gaussian Elimination (Continued)
+- Lecture 6: Vector Geometry
+- Lecture 7: The K-Means Problem
+- Lecture 8: Cluster Evaluation
+- Lecture 9: Hierarchical Clustering
+- Lecture 10: Supervised Learning
+- Lecture 11: Decision Trees
+- Lecture 12: k-Nearest Neighbors
+- Lecture 13: k-Nearest Neighbors in Action
+- Lecture 14: Matrix Algebra
+- Lecture 15: Computing with Real Numbers
+- Lecture 16: Linear Transformations
+- Lecture 17: Matrix Composition
+- Lecture 18: Matrix Factorization
+- Lecture 19: The LU Factorization
+- Lecture 20: LU Decomposition + Subspaces
+- Lecture 21: Vector Subspace and Basis
+- Lecture 22: Orthogonality
+- Lecture 23: QR Decomposition
+
 ## Instructors
 
 - Professor: Allison McDonald (amcdon@bu.edu)
