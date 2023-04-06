@@ -97,6 +97,23 @@ Please note that all information provided below is current as of Spring 2023.
     - Invertibility
   - 27.6 The Characteristic Equation
     - Similarity
+- Lecture 28: Diagonalisation
+  - 28.1 Similarity
+  - 28.2 Diagonalisation
+    - Powers of a Diagonal Matrix
+    - Extending to a General Matrix A
+  - 28.3 Diagonalisation Requires Eigenvectors and Eigenvalues
+  - 28.4 Diagonalizing a Matrix
+    - Four Steps to Diagonalization
+      - Step 1: Find the eigenvalues of A
+      - Step 2: Find three linearly independent eigenvectors of A
+      - Step 3: Construct P from the vectors in Step 2
+      - Step 4: Construct D from the corresponding eigenvalues
+    - When Diagonalization Fails
+    - An Important Case
+  - 28.5 Diagonalization as a Change of Basis
+    - Interpreting Diagonalization Geometrically
+
 
 ## Instructors
 
