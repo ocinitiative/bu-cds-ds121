@@ -112,8 +112,29 @@ Please note that all information provided below is current as of Spring 2023.
     - When Diagonalization Fails
     - An Important Case
   - 28.5 Diagonalization as a Change of Basis
-    - Interpreting Diagonalization Geometrically
-
+    - Interpreting Diagonalisation Geometrically
+- Lecture 29: Symmetric Matrices
+  - 29.1 Diagonalising a Symmetric Matrix
+    - The Special Theorem
+    - Orthogonal Diagonalisation
+  - 29.2 Quadratic Forms
+    - Visulizing Quadratic Forms
+  - 29.3 Classifying Quadratic Forms
+- Lecture 30: Constrained Optimisation
+  - 30.1 Constrained Optimisation
+  - 30.2 Solving Constrained Optimisation Over Quadratic Forms
+    - Eigenvalues Solve Contrained Optimisation
+    - Singular Value Decomposition is a constrained optimization problem
+  - 30.3 Cholesky decomposition
+- Lecture 31: Singular Value Decomposition
+  - 31.1 Our Last Matrix Factorization
+    - The data science view
+    - The geometric view
+    - The algebraic view
+  - 31.2 Maximizing ∥Ax∥
+    - ∥Ax∥^2 is a Quadratic Form
+  - 31.3 The Singular Values of a Matrix
+    - The Eigenvectors of AT A Lead To an Orthogonal Basis for Col A
 
 ## Instructors
 
