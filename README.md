@@ -135,6 +135,15 @@ Please note that all information provided below is current as of Spring 2023.
     - ∥Ax∥^2 is a Quadratic Form
   - 31.3 The Singular Values of a Matrix
     - The Eigenvectors of AT A Lead To an Orthogonal Basis for Col A
+- Lecture 32: Reduced SVD
+  - 32.1 The Singular Value Decomposition
+  - 32.2 Reduced SVD
+  - 32.3 Dimensionality Reduction
+  - 32.4 Empirical Examples of SVD
+    - Image compression
+    - Networks
+    - Low Effective Rank is Common
+    - Summary
 
 ## Instructors
 
