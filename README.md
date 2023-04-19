@@ -144,6 +144,17 @@ Please note that all information provided below is current as of Spring 2023.
     - Networks
     - Low Effective Rank is Common
     - Summary
+- Lecture 33: SVD and Principal Component Analysis
+  - 33.1 Empirical Examples of SVD
+    - Image compression
+    - Networks
+    - Low Effective Rank is Common
+      - User preferences over items
+      - Likes on Facebook
+      - Social Media Activity
+  - 33.2 Interpretations of Low Effective Rank
+    - Low Rank Implies Common Patterns
+    - Low Rank Defines Latent Factors
 
 ## Instructors
 
