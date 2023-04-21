@@ -155,6 +155,17 @@ Please note that all information provided below is current as of Spring 2023.
   - 33.2 Interpretations of Low Effective Rank
     - Low Rank Implies Common Patterns
     - Low Rank Defines Latent Factors
+- Lecture 34: Principal Component Analysis
+  - 34.1 The Pseudoinverse
+  - 34.2 Dimensionality Reduction and PCA
+    - Centroid and Variance
+  - 34.3 Using PCA for Visualization and Denoising
+    - Our Dataset: 20 Newsgroups
+    - Basic Clustering
+    - Improvement: Stemming
+    - Demonstrating PCA
+    - Denoising
+    - Visualization
 
 ## Instructors
 
