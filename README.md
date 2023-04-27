@@ -166,6 +166,17 @@ Please note that all information provided below is current as of Spring 2023.
     - Demonstrating PCA
     - Denoising
     - Visualization
+- Lecture 35: Markov Chains
+  - 35.1 Dynamical Systems
+  - 35.2 Markov Chains
+  - 35.3 Predicting the Distant Future
+  - 35.4 Steady-State Vectors
+  - 35.5 Finding the Steady State
+  - 35.6 Existence of, and Convergence to, Steady State
+- Lecture 36: Applications of Markov Chains
+  - 36.1 Markov Chains and Eigenvectors
+    - A complete solution for the evolution of a Markov Chain
+  - 36.2 An early application of Markov Chains
 
 ## Instructors
 
