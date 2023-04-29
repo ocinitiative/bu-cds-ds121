@@ -177,6 +177,17 @@ Please note that all information provided below is current as of Spring 2023.
   - 36.1 Markov Chains and Eigenvectors
     - A complete solution for the evolution of a Markov Chain
   - 36.2 An early application of Markov Chains
+- Lecture 37: PageRank
+  - 37.1 The History of PageRank
+    - How search engines work
+    - The Insight
+  - 37.2 Random Walks
+  - 37.3 Absorbing Boundaries
+  - 37.4 Random Walks on Undirected Graphs
+  - 37.5 Random Walks on Directed Graphs
+  - 37.6 PageRank
+  - 37.7 Computing PageRank: The Power Method
+
 
 ## Instructors
 
