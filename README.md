@@ -187,6 +187,29 @@ Please note that all information provided below is current as of Spring 2023.
   - 37.5 Random Walks on Directed Graphs
   - 37.6 PageRank
   - 37.7 Computing PageRank: The Power Method
+- Lecture 38: Faster PageRank
+  - The PageRank Insight
+  - 38.1 Computing PageRank: the Power Method
+  - 38.2 Course Evaluation
+  - Exam Review
+    - Linear Independence
+    - Gaussian Elimination
+      - How many solutions will a system have?
+    - Vector Geometry
+    - Clustering
+      - Centroid and Variance
+      - k-means Problem
+      - Limitations of k-means
+      - Evaluating k-means
+      - Hierarchical Clustering
+      - Strengths of Hierarchical Clustering
+      - Building a dendrogram
+    - Supervised Learning
+    - Decision Trees
+      - Hunt's Algorithm
+    - k-Nearest Neighbors
+    - Challenges for k-NN
+    - Evaluating Classification Methods
 
 
 ## Instructors
